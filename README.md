@@ -7,7 +7,7 @@ A repo about having a custom watchface on your Xiaomi Mi Watch Lite
 
 - MiWatch-Dev-90909_9.9.9-debug.apk | A probably leaked debug build of MiWatch (found on a telegram)
 
-- /watchface/watchface.bin | It's a watchface obtained from the official Xiaomi Servers, its called "Hope". (well i hope somebody can unpack it)
+- watchface.bin | It's a watchface obtained from the official Xiaomi Servers, its called "Hope". (well i hope somebody can unpack it)
 
 
 
@@ -22,7 +22,7 @@ To install this watchface, we need to install the leaked MiWatch APK.
 - 6. Wait for automatically pair.
 - 7. Tap on "Additional Settings"
 - 8. Tap on "Watch face laboratory"
-- 9. Enter this path into the text box "/storage/emulated/0/Download/watchface.bin"
+- 9. Enter this path into the text box "/storage/emulated/0/Download/watchface.bin" (You can also change the location if you want)
 - 10. Then press "Done"
 
 After that it should upload that specific watchface on your Xiaomi Mi Watch Lite.
